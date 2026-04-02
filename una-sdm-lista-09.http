@@ -1,0 +1,6 @@
+@una_sdm_lista_09_HostAddress = http://localhost:5068
+
+GET {{una_sdm_lista_09_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
